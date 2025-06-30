@@ -1,7 +1,7 @@
 {
   "name": "Tether USD",
   "symbol": "$USD₮",
-  "description": "A deceptive",
-  "decimals": 9,
-  "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
+  "description": "Tether Token for Tether USD",
+  "decimals": 6,
+  "image": "https://tether.to/images/logoCircle.png"
 }
